@@ -1,0 +1,11 @@
+{
+  "id": 1111,
+  "first_name": "Ryan",
+  "last_name": "Neises",
+  "email": "MisterRyGuy@gmail.com",
+  "accounts": [
+      { "Savings_48576": "$8454.50" },
+      { "Savings_48577": "$158.39" },
+      { "Savings_48578": "$537.54" }
+    ]
+}
