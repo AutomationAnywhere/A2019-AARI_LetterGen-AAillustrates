@@ -4,6 +4,7 @@
   "last_name": "Langer",
   "email": "Pacerman@inventorymgt.com",
   "accounts": [
-      { "Savings": "$24543.50" }
+      { "account_number": "854351315" ,"account_type": "Savings", "balance": "$84513.74" },
+      { "account_number": "876123516" ,"account_type": "Checking", "balance": "$2500.18" },
     ]
 }
