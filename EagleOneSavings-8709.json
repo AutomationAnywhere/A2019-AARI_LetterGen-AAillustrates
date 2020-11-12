@@ -4,7 +4,7 @@
   "last_name": "Ireton",
   "email": "bballirish23@pbs.org",
   "accounts": [
-      { "Savings_88576": "$32.50" },
-      { "Savings_88577": "$2772.79" }
+      { "Savings": "$32.50" },
+      { "Savings": "$2772.79" }
     ]
 }
