@@ -4,8 +4,8 @@
   "last_name": "Neises",
   "email": "MisterRyGuy@gmail.com",
   "accounts": [
-      { "Savings_48576": "$8454.50" },
-      { "Savings_48577": "$158.39" },
-      { "Savings_48578": "$537.54" }
+      { "Savings": "$8454.50" },
+      { "Savings": "$158.39" },
+      { "Savings": "$537.54" }
     ]
 }
