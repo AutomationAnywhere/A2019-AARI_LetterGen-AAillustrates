@@ -4,7 +4,8 @@
   "last_name": "Ireton",
   "email": "bballirish23@pbs.org",
   "accounts": [
-      { "Savings": "$32.50" },
-      { "Savings": "$2772.79" }
+      { "account_number": "546843132" ,"account_type": "Savings", "balance": "$65846.84" },
+      { "account_number": "354561305" ,"account_type": "Checking", "balance": "$3545.84" },
+      { "account_number": "848531231" ,"account_type": "Savings", "balance": "$453.78" }
     ]
 }
