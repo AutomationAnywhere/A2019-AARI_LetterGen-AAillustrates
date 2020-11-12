@@ -4,6 +4,6 @@
   "last_name": "Langer",
   "email": "Pacerman@inventorymgt.com",
   "accounts": [
-      { "Savings_58576": "$24543.50" }
+      { "Savings": "$24543.50" }
     ]
 }
